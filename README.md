@@ -27,9 +27,11 @@ Day 1:
 Created AWS Free Tier account and logged into the AWS Console.
 Explored AWS Billing and Cost Management and set up a zero-dollar limit budget.
 Launched an EC2 instance from the free tier options.
+
 Day 2:
 Connected to the EC2 Instance using SSH.
 Installed Apache Web Server on the Linux Instance and deployed a simple HTML page (Personalpage.html).
+
 Day 3:
 Built the portfolio website structure using HTML5, Bootstrap, JavaScript, SASS, and CSS.
 Ensured all files were correctly linked and the website was functioning as intended.
@@ -52,9 +54,11 @@ Day-by-Day Progress:
 Day 1:
 Created and configured an S3 bucket with private permissions.
 Uploaded files to the S3 bucket.
+
 Day 2:
 Enabled encryption for the uploaded files.
 Created a CloudFront distribution and integrated it with the S3 bucket.
+
 Day 3:
 Created a new KMS key and set it as the default encryption key for the S3 bucket.
 Monitored and logged activities using CloudTrail.
@@ -76,10 +80,13 @@ Day-by-Day Progress:
 
 Day 1:
 Created a table in DynamoDB.
+
 Day 2:
 Wrote a Lambda function as the backend logic for CRUD operations.
+
 Day 3:
 Configured API Gateway to expose Lambda functions as RESTful API endpoints.
+
 Day 4:
 Implemented and tested CRUD operations via API endpoints.
 
@@ -96,12 +103,16 @@ Day-by-Day Progress:
 
 Day 1:
 Created an S3 bucket and uploaded the resume.
+
 Day 2:
 Created a Knowledge Base in AWS Bedrock and linked the resume.
+
 Day 3:
 Built a vector store using embeddings and tested the knowledge base.
+
 Day 4:
 Created and connected an agent in Bedrock to the knowledge base.
+
 Day 5:
 Interacted with the resume through the Bedrock agent.
 Challenges and Resolutions
