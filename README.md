@@ -9,6 +9,7 @@ Welcome to my GitHub repository for the AWS Summer Internship 2024! This project
 AWS Bootcamp Live Session: Basics of Amazon Web Services
 On 25th may, there was a live bootcamp which Amit Arora sir(Security Architect at AWS) is doing for an AWS Club where entry level engineers can participate and build there AWS skills from groundsup.. So it wasn't the start of internship but we learnt the basics of amazon web services , how it provides various functionalities to developers. The internsip period is of 4 weeks with focus on Labs and Practical Insights to make familiar with aws.
 Start of Internship
+
 1️⃣ week 1
 28th May 2024
 Orientation Meeting: Introduction to AWS and overview of the internship tasks
@@ -89,6 +90,7 @@ Configured the Security Group for the Apache server on the EC2 instance to accep
 
 Verified the configuration by accessing the personal webpage hosted on the EC2 instance. Used the public IP address of the instance in a web browser to confirm that the Apache server is serving the webpage correctly. This demonstrated successful setup and configuration of the web server.(Task 10)
 
+
 2️⃣ week 2
 4th June 2024
 Online Session: Learning about storage and S3 with its related services ,also swictching from EC2 to S3
@@ -161,6 +163,8 @@ Learned about AWS Step Functions and its ability to coordinate multiple AWS serv
 ➠ Reviewed error handling in Step Functions workflows*:
 
 Reviewed best practices for implementing error handling in Step Functions workflows, appreciating the importance of resilience in service orchestration.
+
+
 3️⃣ week 3
 12th June 2024
 Online Session: Introduction to AWS DynamoDB, API Gateway, and Lambda Functions
@@ -211,6 +215,8 @@ Linked the API Gateway endpoints with the corresponding Lambda functions. This i
 ➠ Test Out APIs through Curl and Browser
 
 Tested the configured APIs using curl commands and a web browser to ensure they work as expected. Verified that the CRUD operations (Create, Read, Update, Delete) perform correctly and that the APIs return the appropriate responses for different scenarios.
+
+
 4️⃣ week 4
 21st June 2024
 Online Session: Introduction to AWS Bedrock, S3, and Knowledge Base Integration
